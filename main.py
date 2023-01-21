@@ -80,19 +80,19 @@ def wth():
 video_capture = cv2.VideoCapture(0)
 #-----------------------------------------Faces--------------------------------
 
-mahin_image = face_recognition.load_image_file("mahin.jpg")
+mahin_image = face_recognition.load_image_file("faces/mahin.jpg")
 mahin_face_encoding = face_recognition.face_encodings(mahin_image)[0]
-saikat1_image = face_recognition.load_image_file("saikat1.jpg")
+saikat1_image = face_recognition.load_image_file("faces/saikat1.jpg")
 saikat1_face_encoding = face_recognition.face_encodings(saikat1_image)[0]
-saikat2_image = face_recognition.load_image_file("saikat2.jpg")
+saikat2_image = face_recognition.load_image_file("faces/saikat2.jpg")
 saikat2_face_encoding = face_recognition.face_encodings(saikat2_image)[0]
-tonmoy_image = face_recognition.load_image_file("tonmoy.jpg")
+tonmoy_image = face_recognition.load_image_file("faces/tonmoy.jpg")
 tonmoy_face_encoding = face_recognition.face_encodings(tonmoy_image)[0]
-tonmoy2_image = face_recognition.load_image_file("tonmoy2.jpg")
+tonmoy2_image = face_recognition.load_image_file("faces/tonmoy2.jpg")
 tonmoy2_face_encoding = face_recognition.face_encodings(tonmoy2_image)[0]
-hemanto1_image = face_recognition.load_image_file("hemanto1.jpg")
+hemanto1_image = face_recognition.load_image_file("faces/hemanto1.jpg")
 hemanto1_face_encoding = face_recognition.face_encodings(hemanto1_image)[0]
-hemanto2_image = face_recognition.load_image_file("hemanto2.jpg")
+hemanto2_image = face_recognition.load_image_file("faces/hemanto2.jpg")
 hemanto2_face_encoding = face_recognition.face_encodings(hemanto2_image)[0]
 
 known_face_encodings = [
@@ -190,7 +190,7 @@ cn = Button(header,bg="#3C3F41",width = 12,text ='----------')
 cn.grid(row = 0,column = 2)
 
 lab = Label(root,text="NDITC'S AI POWERED FACE RECOGNITION APP",font=('Trebuchet MS Bold','28'),bg='#202229',fg='#56fc03').pack()
-#lab = Label(root,text="FACE RECOGNITION APP",font=('Trebuchet MS Bold','28'),bg='#202229',fg='#56fc03').pack()
+
 
 #<---------------------------------------------------------------->
 
@@ -234,7 +234,7 @@ stsbox.pack(side = LEFT)
 footer = Frame(root)
 footer.pack()
 
-copy = Label(footer,width=200,borderwidth=2,bg="#3C3F41",text="© NDITC Dhaka,Bangladesh",font=('','12'),fg="#bbbbbd")
+copy = Label(footer,width=200,borderwidth=2,bg="#3C3F41",text="© NDITC ",font=('','12'),fg="#bbbbbd")
 copy.pack()
 #<-----------------Footer--------------->
 root.mainloop()
