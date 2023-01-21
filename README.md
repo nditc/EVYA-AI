@@ -36,7 +36,6 @@ Notre Dame Information Technology Club's official Artificial Intelligence applic
 
 ## Snaps in Action
 ![snap1.jpg](other/snap1.jpg)
-![snap2.jpg](other/snap2.jpg)
 
 
 
