@@ -1,8 +1,7 @@
 ![poster.jpg](other/banner.png)
 
 # EVYA AI - NDITC ✅
-Notre Dame Information Technology Club's official Artificial Intelligence application that performs image recognition, profit prediction and acts as the backend head of the **Tinker** bot.
-
+Notre Dame Information Technology Club's official Artificial Intelligence application that performs image recognition
 <br>
 
 ## Tech Stack
@@ -35,7 +34,7 @@ Notre Dame Information Technology Club's official Artificial Intelligence applic
 <br>
 
 ## Snaps in Action
-![snap1.jpg](other/snap1.jpg)
+![snap1.png](other/snap1.png)
 
 
 
