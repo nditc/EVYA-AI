@@ -1,7 +1,7 @@
 #This Script is fully created by Mahin Bin Hasan
 #It's a part of NDITC's AI project. 
-#Overall project credits are given in our official Github repo.
-#
+#Overall project credits are given in Readme File. 
+#Check readme for view all project members
 #
 #
 import os
