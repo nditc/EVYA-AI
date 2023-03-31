@@ -1,6 +1,6 @@
 ![EVYA](other/banner.png)
 
-# EVYA AI - NDITC ✅
+# EVYA AI - NDITC
 Notre Dame Information Technology Club's official Artificial Intelligence Project
 <br>
 
