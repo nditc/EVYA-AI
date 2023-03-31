@@ -1,11 +1,12 @@
 ![EVYA](other/banner.png)
 
 # EVYA AI - NDITC ✅
-Notre Dame Information Technology Club's official Artificial Intelligence application that performs image recognition
+Notre Dame Information Technology Club's official Artificial Intelligence Project
 <br>
 
-## Tech Stack
+## Tech Stack - Face recognition application
  - Python==3.9
+ - launchscreen==1.0.8
  - comtypes==1.1.14
  - dlib==19.22.99
  - face-recognition==1.3.0
