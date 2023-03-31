@@ -33,7 +33,7 @@ Notre Dame Information Technology Club's official Artificial Intelligence Projec
 <br>
 
 ## Snaps in Action
-![snap1.png](other/snap1.PNG)
+![snaps](other/snap.png)
 
 
 
