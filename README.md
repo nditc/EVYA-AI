@@ -1,4 +1,4 @@
-![EVYA](other/banner.jpeg)
+![EVYA](other/banner.png)
 
 # EVYA AI - NDITC ✅
 Notre Dame Information Technology Club's official Artificial Intelligence application that performs image recognition
