@@ -1,3 +1,4 @@
+#                                                           FACE RECOGNITION APPLICATION FOR EVYA.AI
 #                                                   AN INITIATIVE OF NOTRE DAME INFORMATION TECHNOLOGY CLUB
 #                                               ------------------------------------------------------------------
 #                                               |Script Author: Md. Al Mahin Bin Hasan                           |
@@ -7,7 +8,7 @@
 #                                               |On first start please connect to internet!!                     |
 #                                               |                                                                |
 #                                               |It's a part of NDITC's EVYA.AI project.                         |
-#                                               |Overall project credits are given in our official Github repo.  |
+#                                               |Overall project credits are given in Readme.md file.            |
 #                                               ------------------------------------------------------------------
 #                                                     [!!Please do not remove or change this head section!!]
 #---------------------------------------------------------------------------Script start----------------------------------------------------------------------------
