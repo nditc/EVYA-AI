@@ -1,6 +1,6 @@
 #                                                   AN INITIATIVE OF NOTRE DAME INFORMATION TECHNOLOGY CLUB
 #                                               ------------------------------------------------------------------
-#                                               |Script Author: Mahin Bin Hasan                                  |
+#                                               |Script Author: Md. Al Mahin Bin Hasan                           |
 #                                               |Github       : https://github.com/mahinbinhasan                 |
 #                                               ------------------------------------------------------------------
 #                                               ------------------------------------------------------------------
