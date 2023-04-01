@@ -1,11 +1,16 @@
-#This Script is fully created by Mahin Bin Hasan
-#
-#
-#It's a part of NDITC's AI project. 
-#Overall project credits are given in our official Github repo.
-#
-#
-
+#                                                   AN INITIATIVE OF NOTRE DAME INFORMATION TECHNOLOGY CLUB
+#                                               ------------------------------------------------------------------
+#                                               |Script Author: Mahin Bin Hasan                                  |
+#                                               |Github       : https://github.com/mahinbinhasan                 |
+#                                               ------------------------------------------------------------------
+#                                               ------------------------------------------------------------------
+#                                               |On first start please connect to internet!!                     |
+#                                               |                                                                |
+#                                               |It's a part of NDITC's EVYA.AI project.                         |
+#                                               |Overall project credits are given in our official Github repo.  |
+#                                               ------------------------------------------------------------------
+#                                                     [!!Please do not remove or change this head section!!]
+#---------------------------------------------------------------------------Script start----------------------------------------------------------------------------
 import os
 os.system("cls")
 print("""
