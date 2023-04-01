@@ -416,16 +416,16 @@ class Ui_MainWindow(object):
         Lab = Label(win,text='AI based Face Recognition NDITC',font=('','12'))
         Lab.pack()
         
-        bod = Label(win,text='This program is created by NDITC AI Team.\nProduct Manager: Abdul Basit Tonmoy\n Full Appliaction: Md. Al Mahin Bin Hasan\n Post processing:Ahammed Shawki \nImage resources : Arko Chowdhury ')
+        bod = Label(win,text='This program is created by NDITC AI Team.\nProduct Manager: Abdul Basit Tonmoy\n Full Appliaction: Md. Al Mahin Bin Hasan\n Post processing:Ahammed Shawki ')
         bod.pack()
         
-        t = Button(win, bg="#777a80", fg="#bbbbbd", width=22, text='Find me on Facebook!!', command=lambda: self.brs())
+        t = Button(win, bg="#777a80", fg="#bbbbbd", width=22, text='NDITC WEBSITE!!', command=lambda: self.brs())
         t.pack()
         
         win.mainloop()
         
     def brs(self):
-        urb = 'https://www.facebook.com/root.mahin'
+        urb = 'https://nditc.org'
         webbrowser.open(urb)
         
     def retranslateUi(self, MainWindow):
