@@ -10,7 +10,7 @@
 #                                               |It's a part of NDITC's EVYA.AI project.                         |
 #                                               |Overall project credits are given in Readme.md file.            |
 #                                               ------------------------------------------------------------------
-#                                                     [!!Please do not remove or change this head section!!]
+#                                                     [!!-------------------------------------------------!!]
 #---------------------------------------------------------------------------Script start----------------------------------------------------------------------------
 import os
 os.system("cls")
