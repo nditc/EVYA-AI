@@ -27,7 +27,7 @@ Notre Dame Information Technology Club's official Artificial Intelligence Projec
 ## Credits
 - Product Manager        - [Abdul Basit Tonmoy](https://www.facebook.com/abasit.tonmoy)
 - Face Recognition & GUI - [Mahin Bin Hasan](https://www.facebook.com/root.mahin) [-Github](https://github.com/mahinbinhasan)
-- Contributors:
+- Special Mentions:
 -  - [Ahammad Shawki](https://linktr.ee/ahammadshawki8/)
 -  - [Arko Chowdhury](https://www.facebook.com/arko.chowdhury.121)
 -  - [Abdullah Rafid](https://github.com/smrt-nerd)
